@@ -7,11 +7,11 @@ Bu proje, sinema salonu yönetimini kolaylaştırmak amacıyla bir **Müşteri K
 - **Müşteri Ekleme:** Yeni bir müşteri adı ve soyadı ile sisteme eklenebilir.
 - **Film Ekleme:** Filmin adı, süresi ve türü sisteme eklenebilir.
 - **Salon Ekleme:** Salonlar oluşturulabilir ve filmlerle ilişkilendirilebilir.
-- **Veri Yönetimi:** Filmler, salonlar ve müşteriler hakkında veriler JSON veya XML formatlarında saklanabilir.
+- **Veri Yönetimi:** Filmler, salonlar ve müşteriler hakkında veriler JSON formatlarında saklanabilir.
 - **Bilgi Gösterme:** Kullanıcılar, filmler, salonlar ve müşteriler hakkında bilgi görüntüleyebilir.
 
 ## Kullanılan Teknolojiler
 
 - **Java**: Uygulama Java dili ile yazılmıştır.
-- **JSON/XML**: Veriler JSON veya XML formatlarında saklanmaktadır.
+- **JSON**: Veriler JSON  formatlarında saklanmaktadır.
 - **Scanner**: Kullanıcıdan veri almak için Java'nın Scanner sınıfı kullanılmıştır.
