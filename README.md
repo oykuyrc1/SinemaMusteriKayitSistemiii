@@ -1,6 +1,6 @@
 # Sinema Müşteri Kayıt Sistemi
 
-Bu proje, sinema salonu yönetimini kolaylaştırmak amacıyla bir **Müşteri Kayıt Sistemi** tasarlamaktadır. Kullanıcılar, filmler, salonlar ve müşteriler hakkında bilgi ekleyebilir ve listeleyebilir. Proje, JSON veya XML formatlarında verilerin kaydedilmesini sağlar.
+Bu proje, sinema salonu yönetimini kolaylaştırmak amacıyla bir **Müşteri Kayıt Sistemi** tasarlamaktadır. Kullanıcılar, filmler, salonlar ve müşteriler hakkında bilgi ekleyebilir ve listeleyebilir. Proje, JSON formatında verilerin kaydedilmesini sağlar.
 
 ## Özellikler
 
