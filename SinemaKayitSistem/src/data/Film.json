@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Matrix",
+      "type": "Bilim Kurgu",
+      "duration": 120,
+      "salonIds": [1]
+    },
+    {
+      "id": 2,
+      "name": "Titanic",
+      "type": "Drama",
+      "duration": 195,
+      "salonIds": [2, 3]
+    }
+  ]
+  

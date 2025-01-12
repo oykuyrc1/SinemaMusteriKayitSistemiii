@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Salon 1",
+      "filmIds": [1],
+      "musteriIds": [1, 2]
+    },
+    {
+      "id": 2,
+      "name": "Salon 2",
+      "filmIds": [2],
+      "musteriIds": []
+    }
+  ]
+  
